@@ -2,5 +2,10 @@
   "name": "Web.Whatsapp Meets Extension",
   "version": "0.1.0",
   "description": "Create a Calendar event and send the Google Meets link in the chat.",
+  "permissions": ["storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
   "manifest_version": 2
 }
