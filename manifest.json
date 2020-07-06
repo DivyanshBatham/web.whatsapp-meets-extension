@@ -1,0 +1,6 @@
+{
+  "name": "Web.Whatsapp Meets Extension",
+  "version": "0.1.0",
+  "description": "Create a Calendar event and send the Google Meets link in the chat.",
+  "manifest_version": 2
+}
